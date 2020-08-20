@@ -1,6 +1,6 @@
 voila
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
 ipywidgets
