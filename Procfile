@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser --enable_nbextensions=True pagos_interactivo.ipynb
+web: voila —-port=$PORT —-no-browser --enable_nbextensions=True notebooks/pagos_interactivo.ipynb
